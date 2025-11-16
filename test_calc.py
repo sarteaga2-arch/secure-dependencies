@@ -15,3 +15,4 @@ def test_divide_by_zero():
         divide(1, 0)
 #Test
 #Test1
+Test2
